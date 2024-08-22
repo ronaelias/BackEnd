@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4vwFEFHCbKL2ewLTgSvAE7VJaJV+bLh1keuNXqNK9uA=",
+  "Source": "MyWebApi",
+  "BasePath": "_content/MyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApi\\wwwroot",
+      "Source": "MyWebApi",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\InMind\\Session9\\WebAPI\\MyWebApi\\wwwroot\\",
+      "BasePath": "_content/MyWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
